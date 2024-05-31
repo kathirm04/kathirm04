@@ -7,4 +7,4 @@ My name is Kathir, and I am a Computer Science Engineering and Neuroscience stud
   - 🧑‍🤝‍🧑 Always looking to collaborate and create some fun projects, so reach out at kathir.maarik04@gmail.com!
 
 
-[![Kathir's GitHub stats](https://github-readme-stats.vercel.app/api?username=kathirm04)](https://github.com/anuraghazra/github-readme-stats)
+![Kathir's GitHub stats](https://github-readme-stats.vercel.app/api?username=kathirm04&show_icons=true)
