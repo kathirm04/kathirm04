@@ -1,4 +1,4 @@
-# 💫 About Me:
+#About Me:
 
 My name is Kathir, and I am a Computer Science Engineering and Neuroscience student at The Ohio State University.
 
