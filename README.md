@@ -18,11 +18,6 @@ My name is Kathir, and I am a Computer Science Engineering and Neuroscience stud
 
 # 📊 GitHub Stats:
 ![Kathir's GitHub stats](https://github-readme-stats.vercel.app/api?username=kathirm04&show_icons=true&theme=ambient_gradient) <br/>
-![](https://github-readme-stats.vercel.app/api?username=kathirm04&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kathirm04&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kathirm04&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kathirm04&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
