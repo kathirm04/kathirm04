@@ -8,12 +8,12 @@ My name is Kathir, and I am a Computer Science Engineering and Neuroscience stud
 
 <!-- Github stats -->
 
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kathir-maari) 
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/kathir_m?si=c2d1d60a654349ee)
 
 # 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -33,6 +33,5 @@ My name is Kathir, and I am a Computer Science Engineering and Neuroscience stud
 
 # 📊 GitHub Stats:
 ![Kathir's GitHub stats](https://github-readme-stats.vercel.app/api?username=kathirm04&show_icons=true&theme=ambient_gradient) <br/><br/>
-![](https://github-profile-trophy.vercel.app/?username=kathirm04&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
