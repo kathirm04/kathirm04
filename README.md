@@ -1,4 +1,7 @@
-### Hi, I'm Kathir!
-🔭 I'm currently studying Computer Science Engineering and Neuroscience at The Ohio State University 
-🌱 I’m currently learning more about game development, machine learning, and a little bit of web design
-📫 Always looking to collaborate and create some fun projects, so reach out at kathir.maarik04@gmail.com
+### Hi there!
+
+My name is Kathir, and I am a Computer Science Engineering and Neuroscience student at The Ohio State University.
+
+  - 🔭 I'm currently working on a Connect 4 AI game (learning about the minimax algorithm and 2-player game AI)
+  - 🌱 I want to learn more about game development, machine learning, and a little bit of web design.
+  - 🧑‍🤝‍🧑 Always looking to collaborate and create some fun projects, so reach out at kathir.maarik04@gmail.com!
